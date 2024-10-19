@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Quiz\Quiz\obj\Debug\net8.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Quiz\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Quiz\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfo.cs
+C:\Users\HP\source\repos\Quiz\Quiz\obj\Debug\net8.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Quiz\Quiz\bin\Debug\net8.0\Quiz.exe
+C:\Users\HP\source\repos\Quiz\Quiz\bin\Debug\net8.0\Quiz.deps.json
+C:\Users\HP\source\repos\Quiz\Quiz\bin\Debug\net8.0\Quiz.runtimeconfig.json
+C:\Users\HP\source\repos\Quiz\Quiz\bin\Debug\net8.0\Quiz.dll
+C:\Users\HP\source\repos\Quiz\Quiz\bin\Debug\net8.0\Quiz.pdb
+C:\Users\HP\source\repos\Quiz\Quiz\obj\Debug\net8.0\Quiz.dll
+C:\Users\HP\source\repos\Quiz\Quiz\obj\Debug\net8.0\refint\Quiz.dll
+C:\Users\HP\source\repos\Quiz\Quiz\obj\Debug\net8.0\Quiz.pdb
+C:\Users\HP\source\repos\Quiz\Quiz\obj\Debug\net8.0\Quiz.genruntimeconfig.cache
+C:\Users\HP\source\repos\Quiz\Quiz\obj\Debug\net8.0\ref\Quiz.dll

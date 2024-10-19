@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F82DAC-570C-4805-AA15-B07E78344DAB}|Quiz\\Quiz.csproj|c:\\users\\hp\\source\\repos\\quiz\\quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F82DAC-570C-4805-AA15-B07E78344DAB}|Quiz\\Quiz.csproj|solutionrelative:quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F82DAC-570C-4805-AA15-B07E78344DAB}|Quiz\\Quiz.csproj|c:\\users\\hp\\source\\repos\\quiz\\quiz\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F82DAC-570C-4805-AA15-B07E78344DAB}|Quiz\\Quiz.csproj|solutionrelative:quiz\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Quiz\\Quiz\\Weapon.cs",
+              "RelativeDocumentMoniker": "Quiz\\Weapon.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Quiz\\Quiz\\Weapon.cs",
+              "RelativeToolTip": "Quiz\\Weapon.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvzEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:14:00.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Quiz\\Quiz\\Program.cs",
+              "RelativeDocumentMoniker": "Quiz\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Quiz\\Quiz\\Program.cs",
+              "RelativeToolTip": "Quiz\\Program.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAAAI8AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:13:26.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
